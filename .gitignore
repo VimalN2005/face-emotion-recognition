@@ -1,0 +1,11 @@
+venv/
+venv310/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.h5
+*.zip
+*.rar
+*.tar.gz
+*.mp4
+*.avi
